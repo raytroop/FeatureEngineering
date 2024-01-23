@@ -1,6 +1,9 @@
 ### Feature Engineering for Machine Learning
 **-- From beginner to advanced**
-Soledad Galli [udemy](https://www.udemy.com/feature-engineering-for-machine-learning/)
+Soledad Galli light version on [udemy](https://www.udemy.com/feature-engineering-for-machine-learning/)
+
+**-- From beginner to advanced**
+Soledad Galli full version on [Train in Data](https://www.trainindata.com/p/feature-engineering-for-machine-learning)
 
 ![](Slides/cover.png)
 ___
